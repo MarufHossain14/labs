@@ -1,0 +1,4 @@
+Go service
+  └─ calls Redis EVAL
+        └─ runs Lua script
+              └─ checks counters / tokens
