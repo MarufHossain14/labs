@@ -1,0 +1,17 @@
+# Zig (zig-healthz)
+zig-out/
+zig-cache/
+
+# Go (rate-limiter-redis)
+*.exe
+*.test
+vendor/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
